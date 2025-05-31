@@ -6,3 +6,5 @@ This library provides support for the Bosch BMP180 Digital Pressure Sensor
 
 
 This library currently supports the esp-idf platform only [v4.4+]
+
+Simplified version of: https://components.espressif.com/components/zorxx/bmp180
